@@ -10,7 +10,7 @@ class Kilar < Formula
       sha256 "PLACEHOLDER_SHA256_MACOS_INTEL"
     else
       url "https://github.com/polidog/kilar/releases/download/v#{version}/kilar-#{version}-aarch64-apple-darwin.tar.gz"
-      sha256 "PLACEHOLDER_SHA256_MACOS_ARM"
+      sha256 "a62571d52f043147ae585fe9585b44a82dac9a10d590aaee100573c0047881a2"
     end
   end
 
